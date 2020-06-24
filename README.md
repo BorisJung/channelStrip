@@ -13,4 +13,6 @@ This project was the result of a semester project during my bachelor's studies.
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![breadboard](https://github.com/BorisJung/channelStrip/blob/master/pics/breadboard.jpg?raw=true)  |  ![breadboard_48V](https://github.com/BorisJung/channelStrip/blob/master/pics/breadboard_48V.jpg?raw=true)
+![breadboard](https://github.com/BorisJung/channelStrip/blob/master/pics/breadboard.jpg?raw=true)  | ![breadboard_48V](https://github.com/BorisJung/channelStrip/blob/master/pics/breadboard_48V.jpg?raw=true)
+
+<img src="https://github.com/BorisJung/channelStrip/blob/master/pics/breadboard.jpg?raw=true" width="425"/> <img src="https://github.com/BorisJung/channelStrip/blob/master/pics/breadboard_48V.jpg?raw=true" width="425"/> 
