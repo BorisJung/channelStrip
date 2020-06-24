@@ -8,11 +8,9 @@ Although there are many beginner's mistakes, especially regarding the layout,
 
 This project was the result of a semester project during my bachelor's studies. 
 
- 
-<img src="https://github.com/BorisJung/channelStrip/blob/master/pics/breadboard.jpg?raw=true" width="325"/> 
 
 
-<img src="https://github.com/BorisJung/channelStrip/blob/master/pics/breadboard.jpg?raw=true" align="right" width="325"/>
+<img src="https://github.com/BorisJung/channelStrip/blob/master/pics/breadboard.jpg?raw=true" align="middle" width="325"/>
 
 <img src="https://github.com/BorisJung/channelStrip/blob/master/pics/mask.jpg?raw=true" width="325"/>
 
