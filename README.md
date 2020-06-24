@@ -3,12 +3,9 @@
 
 During my bachelor's studies, this channel strip was developed for the "Project Lab" course at HTW Berlin.
 
-Although there are many beginner's mistakes, especially regarding the layout, 
+Although there are many beginner's mistakes, especially regarding the layout, it was still a great learning project, including concept, simulation, layout, different pcb manufacturing processes, soldering, case design as well as test and measurement of the finished product.  
 
-
-This project was the result of a semester project during my bachelor's studies. 
-
-
+Some Pictures representing the development:
 
 <img src="https://github.com/BorisJung/channelStrip/blob/master/pics/breadboard.jpg?raw=true" align="left" width="325"/>
 
