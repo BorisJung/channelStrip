@@ -10,27 +10,27 @@ This project was the result of a semester project during my bachelor's studies.
 
 
 
-<img src="https://github.com/BorisJung/channelStrip/blob/master/pics/breadboard.jpg?raw=true" align="right" width="325"/>
+<img src="https://github.com/BorisJung/channelStrip/blob/master/pics/breadboard.jpg?raw=true" align="left" width="325"/>
 
 
 
-<img src="https://github.com/BorisJung/channelStrip/blob/master/pics/mask.jpg?raw=true" align="right" width="325"/>
+<img src="https://github.com/BorisJung/channelStrip/blob/master/pics/mask.jpg?raw=true" align="left" width="325"/>
 
 
 
-<img src="https://github.com/BorisJung/channelStrip/blob/master/pics/pcbs.jpg?raw=true" align="right" width="325"/>
+<img src="https://github.com/BorisJung/channelStrip/blob/master/pics/pcbs.jpg?raw=true" align="left" width="325"/>
 
 
 
-<img src="https://github.com/BorisJung/channelStrip/blob/master/pics/mounted_pcbs.jpg?raw=true" align="right" width="325"/>
+<img src="https://github.com/BorisJung/channelStrip/blob/master/pics/mounted_pcbs.jpg?raw=true" align="left" width="325"/>
 
 
 
-<img src="https://github.com/BorisJung/channelStrip/blob/master/pics/thd.jpg?raw=true" align="right" width="325"/>
+<img src="https://github.com/BorisJung/channelStrip/blob/master/pics/thd.jpg?raw=true" align="left" width="325"/>
 
 
 
-<img src="https://github.com/BorisJung/channelStrip/blob/master/pics/fft.jpg?raw=true" align="right" width="325"/>
+<img src="https://github.com/BorisJung/channelStrip/blob/master/pics/fft.jpg?raw=true" align="left" width="325"/>
 
 
 
